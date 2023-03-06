@@ -29,6 +29,7 @@ Este projeto faz parte da minha jornada de desenvolvimento front-end.
 - Grid-template
 - Medidas 'FR'
 - Grid Span
+- Função minmax
 
 
 ## Aprendizados
