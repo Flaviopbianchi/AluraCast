@@ -5,9 +5,7 @@
 # Estudo CSS: Grid e layouts responsivos
 
 Este é um projeto de estudo do curso da Alura que ensina como usar a propriedade CSS Grid
-no desenvolvimento de sites mobiles e desktops de forma responsiva.
-
-A tecnologia utilizada é a basica HTML5 e CSS.
+no desenvolvimento de sites mobiles e desktops de forma responsiva. A tecnologia utilizada é a basica HTML5 e CSS.
 Este projeto faz parte da minha jornada de desenvolvimento front-end.
 
 
