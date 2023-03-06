@@ -36,7 +36,7 @@ Este projeto faz parte da minha jornada de desenvolvimento front-end.
 
 Utilizar a propriedade CSS GRID em projetos mobile, tablet e desktop.
 
-## 🚀 Sobre mim
+## Sobre mim
 Data-Driven | lifelong learner | hands-on.
 
 Profissional da área de comunicação e marketing formado pela Anhembi Morumbi em marketing e pós-graduado em comunicação marcas e consumo. 
