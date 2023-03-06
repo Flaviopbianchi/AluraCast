@@ -1,4 +1,4 @@
-![Logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/0d75ac165355807.6406317621389.png)
+![Logo](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/7ab64c165355807.640660065de7f.png)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
