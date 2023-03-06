@@ -38,7 +38,13 @@ Utilizar a propriedade CSS GRID em projetos mobile, tablet e desktop.
 ## 🚀 Sobre mim
 Data-Driven | lifelong learner | hands-on.
 
-Estudou front-end com 18 anos de idade e está voltando a desenvolver com 34 anos.
+Profissional da área de comunicação e marketing formado pela Anhembi Morumbi em marketing e pós-graduado em comunicação marcas e consumo. 
+Tenho mais de 5 anos de experiência na área atuando em empresas de pequeno e grande porte nos segmentos de: 
+- desenvolvimento de software 
+- entretenimento
+- varejo 
 
-Profissional da área de comunicação e marketing com mais de 5 anos de experiência. 
-Já atuei em empresas de pequeno e grande porte nos segmentos de: desenvolvimento de software, entretenimento, varejo e entre outras. Durante esse tempo, consegui desenvolver competências na área de produtos, front-end, UX Design, planejamento e gestão de comunicação e marketing, Google, Meta e LinkedIn ADS e gestão de equipes.
+Atualmente está apaixonado por tecnologia atuando em: 
+- Front-end
+- UX/UI Design
+- Gestão de Produto
